@@ -10,6 +10,21 @@
   <name>Karaf Quickstart : Beginner :: Camel Log</name>
   <description>Camel Log Example</description>
 
+	 <repositories>
+        <repository>
+          <id>lilly</id>
+          <name>llynexus</name>
+          <url>https://llynexus.am.lilly.com:8443/nexus/content/groups/LillyGroup</url>
+        </repository>
+      </repositories>
+      <pluginRepositories>
+        <pluginRepository>
+          <id>lilly</id>
+          <name>llynexus</name>
+          <url>https://llynexus.am.lilly.com:8443/nexus/content/groups/LillyGroup</url>
+        </pluginRepository>
+      </pluginRepositories>
+      
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <version.compiler.plugin>2.3.1</version.compiler.plugin>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1455026215158
+Build-Jdk: 1.7.0_60
+Built-By: U9X4259
+Bundle-Description: Camel Log Example
+Bundle-ManifestVersion: 2
+Bundle-Name: Karaf Quickstart : Beginner :: Camel Log
+Bundle-SymbolicName: com.lilly.esb.iep.dockertest
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0

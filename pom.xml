@@ -37,7 +37,7 @@
     <jube.version>2.0.34</jube.version>
     <docker.maven.plugin.version>0.11.2</docker.maven.plugin.version>
     <camel.version>2.15.0</camel.version>
-
+ 
     <docker.from>fabric8/karaf-2.4</docker.from>
 <!--     <docker.registryPrefix>${env.DOCKER_REGISTRY}/</docker.registryPrefix> -->
 <!--     <docker.image>${docker.registryPrefix}fabric8/quickstart-karaf-camellog:${project.version}</docker.image> -->
